@@ -1,0 +1,159 @@
+#mce-responses {width: 500px}
+
+#mc_embed_signup {width: 510px}
+
+#mc_embed_signup form {margin-top: 40px; margin-bottom: 5px;}
+#mc_embed_signup .mc-field-group label {display:none;}
+
+
+
+#mc_embed_signup .mc-field-group input {
+	width: 362px; 
+	height: 52px;
+	margin: 0;
+    padding: 0 10px;
+    vertical-align: middle;
+    background: #fff;
+    border: 1px solid #eee;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #888;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+	}
+
+#mc_embed_signup .mc-field-group input:focus {
+	outline: 0;
+    border: 1px solid #E8710C;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	}
+
+#mc_embed_signup .mc-field-group input:-moz-placeholder, textarea:-moz-placeholder { color: #888; }
+#mc_embed_signup .mc-field-group input:-ms-input-placeholder, textarea:-ms-input-placeholder { color: #888; }
+#mc_embed_signup .mc-field-group input::-webkit-input-placeholder, textarea::-webkit-input-placeholder { color: #888; }
+
+
+
+
+#mc_embed_signup .button  {
+	height: 52px;
+    margin: 0;
+    padding: 0 20px;
+    vertical-align: middle;
+    border: 0;
+    background: #E8710C;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 52px;
+    color: #fff;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    text-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+
+#mc_embed_signup .button:hover {
+	background: #E83E0C;
+    color: #fff;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+
+#mc_embed_signup .button:hover {
+	background: #E83E0C;
+    color: #fff;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+
+#mc_embed_signup .button:active {
+    background: #E8710C;
+    color: #fff;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#mc_embed_signup .button:focus {
+	outline: 0;
+	background: #E8710C;
+    color: #fff;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+	outline: 0;
+	background: #E8710C;
+    color: #fff;
+}
+
+
+
+
+
+
+
+#mc_embed_signup input:focus {border-color:#333;}
+
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}
+
+#mc_embed_signup .mc-field-group {}
+
+#mc_embed_signup .size1of2 {}
+* html #mc_embed_signup .size1of2 { /* Fix for IE6 double margins. */}
+
+#mc_embed_signup .mc-field-group select {}
+
+#mc_embed_signup .datefield, #mc_embed_signup .phonefield-us{}
+#mc_embed_signup .datefield input, #mc_embed_signup .phonefield-us input{}
+#mc_embed_signup .phonefield-us .phonearea input, #mc_embed_signup .phonefield-us .phonedetail1 input{}
+#mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input{}
+#mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
+
+#mc_embed_signup .indicates-required {}
+#mc_embed_signup .asterisk {}
+#mc_embed_signup .mc-field-group .asterisk {}        
+#mc_embed_signup .clear {}
+
+#mc_embed_signup .mc-field-group.input-group ul {}
+#mc_embed_signup .mc-field-group.input-group ul li {}
+#mc_embed_signup .mc-field-group.input-group label {}
+#mc_embed_signup .mc-field-group.input-group input {}
+
+#mc_embed_signup div#mce-responses { }
+#mc_embed_signup div.response { }
+#mc_embed_signup #mce-error-response { }
+#mc_embed_signup #mce-success-response {}
+#mc_embed_signup label.error { }
+
+#mc-embedded-subscribe {}
+#mc_embed_signup #num-subscribers {}
+#mc_embed_signup #num-subscribers span {}

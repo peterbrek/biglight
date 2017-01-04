@@ -19,7 +19,7 @@
         border-radius: 70px;
     }
     .timer .days, .timer .hours, .timer .minutes, .timer .seconds { font-size: 60px; line-height: 70px; }
-    
+
     .coming-soon p, .section-description p, .our-motto .our-motto-text { padding: 0; }
 
 }
@@ -48,11 +48,11 @@
         border-radius: 70px;
     }
     .timer .days, .timer .hours, .timer .minutes, .timer .seconds { font-size: 60px; line-height: 70px; }
-    
+
     .contact-form, .contact-address { text-align: center; }
     .contact-form { padding-bottom: 40px; }
     .contact-address { padding-bottom: 0; }
-    
+
     .footer-copyright p, .footer-social { text-align: center; }
     .footer-social { margin-top: 15px; }
 
@@ -60,13 +60,14 @@
 
 @media (max-width: 550px) {
     .coming-soon {
-        background-position: 50% 40%;
+        background-position: 50% 60%;
         background-size: 90% auto;
 
     }
 
 .coming-soon h2 img {
-    width: 50%;
+
+		width: 50%;
 }
 
 .inner-bg {
@@ -76,10 +77,12 @@
 
 .coming-soon h2 {
     font-size: 46px;
+
 }
 
+
 .coming-soon p {
-    margin: 180px 0 0px 0;
+    margin: 260px 0 0px 0;
 }
 
     .subscribe form input { width: 90%; }
